@@ -20,7 +20,7 @@ b {
 body {
     width: 700px;
     margin: 0 auto;
-    background-color: #FAFAFA;
+    background-image: url(./resources/Background.jpg);
     font-family: 'Source Sans Pro', sans-serif;
     color: #111;
 }
@@ -28,7 +28,7 @@ body {
 .container {
     margin: 2% auto;
     padding: 15px;
-    background-image: url(./resources/Background.jpg);
+    background-color: #FAFAFA;
     -webkit-box-shadow: 0px 1px 4px 0px rgba(0, 0, 0, 0.2);
     box-shadow: 0px 1px 4px 0px rgba(0, 0, 0, 0.2);
 }
